@@ -18,27 +18,8 @@ React 状态管理 Recoil
 API 接口文档 Apifox  
 缓存 Token 黑名单、Next.js 页面渲染结果使用 Redis 缓存，其他数据使用 LRU-cache 缓存。
 
-## 联系方式
-
-<div>
-    <img src="https://disk.blogweb.cn/me/qq.svg?qq"  width=160 alt="QQ">
-    <img src="https://disk.blogweb.cn/me/wechat.svg?wx" width=160 alt="微信">
-</div>
-
-## 其他版本
-
-系统相对完善对博客网站所需的 SEO 有处理可以在生产环境中进行使用,也可以当做毕业设计。
-系统提供一 份用户端为 Vue3 的 CSR 版本(前端 Vue3,服务端 Node.js 使用 JavaScript)  
-以及一份[Next.js+Vue3+Express 版本](https://github.com/Lrunlin/web_blog "个人博客")（作者主页可见，开源）
-
-可联系 QQ:1974109227
-
 ## 相关链接
-
-1. **[博客预览地址:https://blogweb.cn](https://blogweb.cn "作者个人博客")**
-2. **[GitHub 仓库地址:https://github.com/Lrunlin/blog](https://github.com/Lrunlin/blog "GitHub仓库作为主仓库")**
-3. **[Gitee 仓库地址:https://gitee.com/awebcoder/blog](https://gitee.com/awebcoder/blog "Gitee仓库只做同步镜像不进行其他操作")**
-
+参考  https://github.com/Lrunlin/blog
 ## 功能
 
 ### 用户端
